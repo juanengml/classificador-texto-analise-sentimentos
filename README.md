@@ -7,7 +7,7 @@
 nohup mlflow  server --backend-store-uri  sqlite:///mlflow.db --default-artifact-root  ./artifacts --host 0.0.0.0 --port 8080 &
 ```
 
-![]("unknown.png")
+![](unknown.png)
 
 ## Install requirementes.txt 
 
@@ -21,4 +21,3 @@ $ source env/bin/activate
 (env) $ python train.py
 
 ```
-
