@@ -1,5 +1,7 @@
 # classificador-texto-analise-sentimentos
 
+**ALUNOS: JUAN MANOEL MARINHO NASCIMENTO E GUSTAVO DA SILVA ROSSI**
+
 ## Instale o MLFLOW e Seja Feliz 
 
 
